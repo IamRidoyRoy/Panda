@@ -19,3 +19,16 @@
     width: 290px;
     height: 290px;
 }
+
+.product-head a{
+    text-decoration: none;
+    color: tomato;
+}
+
+.foot{
+    width: 1212px;
+    height: 455px;
+}
+.foot-input{
+    width: 300px;
+}
