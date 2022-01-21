@@ -1,0 +1,21 @@
+.category{
+    width: 359px; 
+    height: 120px; 
+    border-radius: 5px;
+    /* background-image: linear-gradient(#FF9C35, #FFD019 ); */
+
+}
+.shoes img{
+    width: 336px;
+    height: 202px;
+}
+.shoe{
+    width: 360px;
+    height: 532px;
+    margin-right: 10px;
+}
+
+.bag img{
+    width: 290px;
+    height: 290px;
+}
